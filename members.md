@@ -1,4 +1,4 @@
 ## Member list
 
 Janne
-Jenny
+Eetu
