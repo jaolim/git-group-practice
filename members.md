@@ -1,3 +1,4 @@
 ## Member list
 
 Janne
+Jenny
