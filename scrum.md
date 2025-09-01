@@ -1,7 +1,7 @@
 # Scrum guide
 
-## Scrum in general
-Tämän ohjeen tarkoitus on auttaa kurssin projektitiimiämme työskentelemään tehokkaasti Scrum-menetelmällä. Scrum on kehitysmalli, joka tukee tiimin yhteystyötä ja jatkuvaa parantamista.
+## Yleiskuvaus
+Tämän ohjeen tarkoitus on auttaa kurssin projektitiimiämme työskentelemään tehokkaasti Scrum-menetelmällä. Scrum on kehitysmalli, joka tukee tiimin yhteystyötä ja jatkuvaa parantamista ja sitä voi käyttää ohjelmistoprojektien lisäksi myös muissa monimutkaisissa projekteissa. Scrum-menetelmästä saa parhaimman hyödyn irti käyttämällä sitä ja sen sääntöjä sellaisenaan muuttamatta sen ydinperiaatteita. 
 ## Scrum in Tiimi Spagetti
 
 *Or how to tailor scrum to work for this course*
