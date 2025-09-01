@@ -15,6 +15,8 @@ Sprintit eli kehitysjaksot ovat ajallisesti rajattuja työvaiheita, jotka rytmit
 
 ## Scrum Tiimi Spagetissa
 
+Projektissa, jonka parissa jäsenet eivät välttämättä työskentele päivittäin, on myös *scrumia* muokattava hieman, jotta sen toiminnot säilyvät arvoa antavina, eivätkä päädy aiheuttamaan lisäkuormitusta.
+
 ### Daily scrum
 Erityisesti *daily scrum*, jonka tarkoitus on organisoida *sprint backlogia* lyhyellä päivittäisellä keskustelulla, on tällä toteutuksella haastava toteuttaa mielekkäästi, koska projektin kanssa työskentely on asynkronisempaa, kuin täysipäiväisessä projektissa olisi.
 Myös työmäärä voi joillain viikoilla olla sen verran vähäinen, ettei ole edes mielikästä koittaa työstää projektia päivittäin.
