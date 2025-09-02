@@ -24,6 +24,8 @@ Scrum Master
 Kehitystiimi (Kehittäjät)
 * Tuottavat arvoa Sprittien aikana eli tuottavat käyttökelpoisia lopputuloksia ja ratkaisuja.
 
+Miten roolit jaetaan ja miten niitä sovelletaan projektissa on vielä pohdinnan alla. Kaikki tulevat toimimaan kehittäjinä, mutta kuka ottaa vastuun siitä, mitä kehitetään ja milloin, ja kuka on kyvykäs tukemaan muita ongelmatilanteissa on vielä päätettävänä.
+
 ## Scrum Tiimi Spagetissa
 
 Projektissa, jonka parissa jäsenet eivät välttämättä työskentele päivittäin, on myös *scrumia* muokattava hieman, jotta sen toiminnot säilyvät arvoa antavina, eivätkä päädy aiheuttamaan lisäkuormitusta.
