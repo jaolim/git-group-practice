@@ -30,6 +30,10 @@ Miten roolit jaetaan ja miten niitä sovelletaan projektissa on vielä pohdinnan
 
 Projektissa, jonka parissa jäsenet eivät välttämättä työskentele päivittäin, on myös *scrumia* muokattava hieman, jotta sen toiminnot säilyvät arvoa antavina, eivätkä päädy aiheuttamaan lisäkuormitusta.
 
+### Sprintin suunnittelu
+
+Ensin suunnitellaan mitä sprintin aikana on tarkoitus tehdä ja asetetaan tavoitteet. Tällä kurssilla yksi sprintti on viikon mittainen ja alkaa jokaisen luennon jälkeen. Suunnitelma tehdään joko luennon yhteydessä tai mahdollisimman pian sen jälkeen.  
+
 ### Daily scrum
 Erityisesti *daily scrum*, jonka tarkoitus on organisoida *sprint backlogia* lyhyellä päivittäisellä keskustelulla, on tällä toteutuksella haastava toteuttaa mielekkäästi, koska projektin kanssa työskentely on asynkronisempaa, kuin täysipäiväisessä projektissa olisi.
 Myös työmäärä voi joillain viikoilla olla sen verran vähäinen, ettei ole edes mielikästä koittaa työstää projektia päivittäin.
@@ -37,6 +41,10 @@ Myös työmäärä voi joillain viikoilla olla sen verran vähäinen, ettei ole 
 Niinpä alustavasti pidämme *daily scrumin* asynkronisena chatin kautta, johon osallistuminen on vapaaehtoista.
 
 Käytännössä tämä siis tarkoittaa, että päivinä, joina projektia meinaa työstää, tulisi *daily scrum*-keskusteluun laittaa viestiä, jossa kuvaa nopeasti suunnitelmansa päivälle, sekä kommentoi, jos keksii *sprintin* työjärjestykseen liittyviä muutosehdotuksia.
+
+### Sprintin katselmointi ja jälkipalaveri
+
+Sprintin jälkeen on tarkoitus tarkastella kuinka hyvin sprintti meni ja tarvitseeko seuraavina viikkoina tehdä muutoksia. Työn tulokset esitellään. 
 
 ## Tapaamiset ja yhteydenpito
 Pidämme viikottain ainakin yhden tapaamisen, tarvittaessa enemmän. Olemme yhteydessä teamsin kautta, ja pyrimme vastaamaan viesteihin mahdollisimman nopeasti ja toimimaan tiiminä.
