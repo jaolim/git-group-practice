@@ -13,6 +13,8 @@ Sprintit eli kehitysjaksot ovat ajallisesti rajattuja työvaiheita, jotka rytmit
 
 ## Roolit
 
+Scrum-menetelmän rooleja ovat Tuoteomistaja (Product Owner), Scrum Master ja Kehitystiimi. Roolien tarkoitus on saada projekti etenemään tehokkaasti.
+
 ## Scrum Tiimi Spagetissa
 
 Projektissa, jonka parissa jäsenet eivät välttämättä työskentele päivittäin, on myös *scrumia* muokattava hieman, jotta sen toiminnot säilyvät arvoa antavina, eivätkä päädy aiheuttamaan lisäkuormitusta.
@@ -21,7 +23,7 @@ Projektissa, jonka parissa jäsenet eivät välttämättä työskentele päivitt
 Erityisesti *daily scrum*, jonka tarkoitus on organisoida *sprint backlogia* lyhyellä päivittäisellä keskustelulla, on tällä toteutuksella haastava toteuttaa mielekkäästi, koska projektin kanssa työskentely on asynkronisempaa, kuin täysipäiväisessä projektissa olisi.
 Myös työmäärä voi joillain viikoilla olla sen verran vähäinen, ettei ole edes mielikästä koittaa työstää projektia päivittäin.
 
-Niinpä alustavasti pidemmä *daily scrumin* asynkronisena chatin kautta, johon osallistuminen on vapaaehtoista.
+Niinpä alustavasti pidämme *daily scrumin* asynkronisena chatin kautta, johon osallistuminen on vapaaehtoista.
 
 Käytännössä tämä siis tarkoittaa, että päivinä, joina projektia meinaa työstää, tulisi *daily scrum*-keskusteluun laittaa viestiä, jossa kuvaa nopeasti suunnitelmansa päivälle, sekä kommentoi, jos keksii *sprintin* työjärjestykseen liittyviä muutosehdotuksia.
 
