@@ -6,4 +6,7 @@ Tehtävän tavoitteena on tuottaa ohje scrumin soveltamiseen projektityössä.
 
 Tehtävä toteutetaan käyttäen gitin haaroja kehitykseen, painaen vasta lopputulos tuotantohaaraan.
 
+[Ohje löytyy täältä.](/scrum.md)
+
+
 
