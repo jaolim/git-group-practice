@@ -15,6 +15,15 @@ Sprintit eli kehitysjaksot ovat ajallisesti rajattuja työvaiheita, jotka rytmit
 
 Scrum-menetelmän rooleja ovat Tuoteomistaja (Product Owner), Scrum Master ja Kehitystiimi. Roolien tarkoitus on saada projekti etenemään tehokkaasti.
 
+Tuoteomistaja
+* Vastuussa siitä, mitä tiimi tekee. Vastaa kehitysjonosta eli backlogista. Ei tee ja järjestä sitä kuitenkaan yksin, mutta on vastuussa siitä.
+
+Scrum Master
+* Tukee tiimiä kehittämisessä ja Scrum-toimintamallin käyttöönotossa. Ohjaa tiimiä oikeaan suuntaan omalla esimerkillä ja auttaa poistamaan edistymisen esteitä.
+
+Kehitystiimi (Kehittäjät)
+* Tuottavat arvoa Sprittien aikana eli tuottavat käyttökelpoisia lopputuloksia ja ratkaisuja.
+
 ## Scrum Tiimi Spagetissa
 
 Projektissa, jonka parissa jäsenet eivät välttämättä työskentele päivittäin, on myös *scrumia* muokattava hieman, jotta sen toiminnot säilyvät arvoa antavina, eivätkä päädy aiheuttamaan lisäkuormitusta.
